@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub workdd
+This repository is for showing how Git and GitHub workdd.  Adding a line for rebasing purpose
 
 ## Purpose
 
@@ -15,3 +15,8 @@ adding more stuff
 ## EATINMG
 
 FOOD
+
+
+## EATINMG
+
+Adding a 
